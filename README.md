@@ -1,7 +1,7 @@
 # Flask-BlogPost-Website
 Built a website using Python(Flask),HTML,CSS,SQL
-### Home
+### ・Home
 ![Home](pics/home.png)
-### Register
+### ・Register
 ![Home](pics/register.png)
 
